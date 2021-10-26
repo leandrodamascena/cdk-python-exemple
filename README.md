@@ -23,3 +23,6 @@ cdk synth
 
 Isto deve produzir um cloudformation de saída
 
+## Rodando o deploy
+
+cdk deploy
